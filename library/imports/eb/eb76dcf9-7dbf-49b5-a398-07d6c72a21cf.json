@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "whiteChessMove",
+    "texture": "20d73213-1336-429f-b933-246592f4154d",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      40,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

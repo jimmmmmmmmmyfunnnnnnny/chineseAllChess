@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "neterror",
+    "texture": "8d8ae538-ca9d-4b4d-854e-fa403cbb87d3",
+    "atlas": "cf634d80-30e3-4588-93e2-369e65c143f3",
+    "rect": [
+      31,
+      903,
+      71,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      71,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "GameLayer0.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "background": {
+      "__uuid__": "292e543c-c96f-49cc-a7c1-89144783fac8"
+    },
+    "blackChess": {
+      "__uuid__": "9bbcc610-9b2d-4221-bcd6-7e33bf1ff2df"
+    },
+    "black_9Bg": {
+      "__uuid__": "f5ab6482-a0ae-46c1-aa3c-37c3e19da046"
+    },
+    "btn_close_normal": {
+      "__uuid__": "f9993800-5dc6-47cb-8b39-bf2940d14792"
+    },
+    "game_black": {
+      "__uuid__": "3592ecbc-baa9-45cb-8620-79ea0b1142e0"
+    },
+    "game_btn_touming": {
+      "__uuid__": "6a0a0633-5c4e-4f64-a375-b011c64bdfe6"
+    },
+    "game_notice_bg": {
+      "__uuid__": "74dde0df-2ff9-4e19-a6ae-492a4c0d1e19"
+    },
+    "Img_chuanguan": {
+      "__uuid__": "0f6b46fe-4d5b-4226-a2ce-d4c4e10f7cd6"
+    },
+    "more_coins": {
+      "__uuid__": "2eca7e8c-9e1c-4ec3-8b65-039a512ef21a"
+    },
+    "neterror": {
+      "__uuid__": "83cc1c5f-8170-47ec-81d8-ec14c4daf045"
+    },
+    "player_ready_state": {
+      "__uuid__": "4b42beb9-51ea-43b2-9827-8b323672453f"
+    },
+    "renshuditu": {
+      "__uuid__": "e1b158dc-67d8-4640-afa2-eda23e39aa01"
+    },
+    "settle_num": {
+      "__uuid__": "b11ff682-043c-4e59-85ed-a4944bff0036"
+    },
+    "toumingditu": {
+      "__uuid__": "7865b1ba-078b-47e4-9d4d-73c38664cd51"
+    },
+    "common-btn_touming": {
+      "__uuid__": "d42c7462-a9f6-4da1-8fe5-6d5f53cbef0f"
+    },
+    "table-self_info2": {
+      "__uuid__": "f4de3eeb-db75-4d27-a3fe-6383ba5daecb"
+    }
+  }
+}

@@ -34,6 +34,7 @@ cc.Class({
             }
         }
         console.log( this.chessMap)
+        
     },
     setChessMap:function(pos) {
         for (let i = 0;i<this.chessMap.length; i++){
@@ -43,8 +44,8 @@ cc.Class({
                 let chess = cc.instantiate(PrefabType)
                 this.gobangBg.node.addChild(chess)
                 chess.position = pos_1
-                    
-                }
+                console.log("pos_1"+pos_1)
+            }
         }
     },
     moveChessToMap:function(){

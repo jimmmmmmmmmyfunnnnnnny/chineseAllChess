@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "GameLayer2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ditu": {
+      "__uuid__": "4cc861b9-a450-411d-a182-3493fab91104"
+    },
+    "Img_lianwang": {
+      "__uuid__": "5a028a71-dce7-4f8c-b073-de992a301847"
+    },
+    "clock-game_clock_numbers": {
+      "__uuid__": "e9efc16e-c30e-4293-b71a-6fb46d5ee99f"
+    },
+    "common-Add": {
+      "__uuid__": "1b87a610-24b6-4673-a78e-579681f4e2ea"
+    },
+    "common-bushi": {
+      "__uuid__": "6fc972ff-1734-47f5-8090-cc100decd1ec"
+    },
+    "common-chessItem": {
+      "__uuid__": "67a5303b-f41d-4703-9544-6cda21b977fd"
+    },
+    "common-chessItem2": {
+      "__uuid__": "06562220-6e5b-4dff-bfa6-011ac2e8cb30"
+    },
+    "common-ditu": {
+      "__uuid__": "4d19d35a-2a02-471b-8635-24971bc16056"
+    },
+    "common-fangjianxinxi": {
+      "__uuid__": "eb2be991-c9f6-4aa1-9fff-52a1a14daf18"
+    },
+    "common-fengexian": {
+      "__uuid__": "d1fca10a-871e-45ad-a692-2eab39aef8fc"
+    }
+  }
+}

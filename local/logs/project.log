@@ -1,86 +1,55 @@
-2018-12-19T08:23:54.524Z - normal: Load ~/.CocosCreator/settings.json
-2018-12-19T08:23:54.528Z - normal: checking language setting...
-2018-12-19T08:23:54.529Z - normal: Language: zh
-2018-12-19T08:23:55.983Z - success: protocol editor-framework registered
-2018-12-19T08:23:55.983Z - success: protocol app registered
-2018-12-19T08:23:55.983Z - success: protocol theme registered
-2018-12-19T08:23:55.983Z - success: protocol packages registered
-2018-12-19T08:23:55.983Z - success: protocol unpack registerred
-2018-12-19T08:23:55.983Z - success: protocol disable-commonjs registerred
-2018-12-19T08:23:57.073Z - normal: connected!
-2018-12-19T08:23:57.083Z - normal: Check project E:\myGitProject\chineseAllChess
-2018-12-19T08:23:57.093Z - normal: Initializing project E:\myGitProject\chineseAllChess
-2018-12-19T08:23:57.103Z - normal: Initializing Cocos2d
-2018-12-19T08:23:57.705Z - normal: Initializing Asset Database
-2018-12-19T08:23:57.735Z - success: protocol uuid registerred
-2018-12-19T08:23:57.735Z - success: protocol db registerred
-2018-12-19T08:23:57.735Z - success: protocol thumbnail registerred
-2018-12-19T08:23:57.735Z - normal: Loading editor/builtin packages
-2018-12-19T08:23:57.859Z - success: assets loaded
-2018-12-19T08:23:57.861Z - success: builder loaded
-2018-12-19T08:23:57.863Z - success: cocos-analytics loaded
-2018-12-19T08:23:57.866Z - success: console loaded
-2018-12-19T08:23:57.889Z - success: fb-instant-games loaded
-2018-12-19T08:23:57.899Z - success: hierarchy loaded
-2018-12-19T08:23:57.899Z - success: inspector loaded
-2018-12-19T08:23:57.899Z - success: keystore loaded
-2018-12-19T08:23:57.899Z - success: node-library loaded
-2018-12-19T08:23:57.899Z - success: package-asset loaded
-2018-12-19T08:23:57.899Z - success: preferences loaded
-2018-12-19T08:23:57.909Z - success: project-exporter loaded
-2018-12-19T08:23:57.922Z - success: project-importer loaded
-2018-12-19T08:23:57.923Z - success: project-settings loaded
-2018-12-19T08:23:57.925Z - success: ui-kit loaded
-2018-12-19T08:23:57.928Z - success: scene loaded
-2018-12-19T08:23:57.929Z - success: sprite-editor loaded
-2018-12-19T08:23:57.931Z - success: store loaded
-2018-12-19T08:23:57.934Z - success: timeline loaded
-2018-12-19T08:23:57.934Z - normal: Loading builtin packages
-2018-12-19T08:23:57.936Z - success: asset-db-debugger loaded
-2018-12-19T08:23:57.938Z - success: code-editor loaded
-2018-12-19T08:23:57.938Z - success: color-picker loaded
-2018-12-19T08:23:57.939Z - success: jsb-adapter loaded
-2018-12-19T08:23:57.941Z - success: package-manager loaded
-2018-12-19T08:23:58.005Z - success: qqplay-adapter loaded
-2018-12-19T08:23:58.005Z - success: sdkbox loaded
-2018-12-19T08:23:58.015Z - success: tester loaded
-2018-12-19T08:23:58.015Z - success: ui-grid loaded
-2018-12-19T08:23:58.015Z - success: ui-kit-preview-extra loaded
-2018-12-19T08:23:58.015Z - success: ui-kit-preview loaded
-2018-12-19T08:23:58.015Z - success: ui-tree loaded
-2018-12-19T08:23:58.015Z - success: weapp-adapter loaded
-2018-12-19T08:23:58.829Z - normal: Loading packages
-2018-12-19T08:23:58.829Z - normal: Watching packages
-2018-12-19T08:23:59.059Z - normal: Run Application
-2018-12-19T08:23:59.368Z - success: preview server running at http://localhost:7457
-2018-12-19T09:24:14.975Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["common/btn_touming.png","table/self_info2.png"]
-2018-12-19T09:26:38.321Z - failed: Can not found the asset db://assets/Texture/goBangGame/GameLayer0.plist/background .png
-2018-12-19T09:26:39.878Z - failed: Can not found the asset db://assets/Texture/goBangGame/GameLayer0.plist/background .png
-2018-12-19T09:50:10.648Z - error: [db-task][delete] Failed to delete asset 0f6b46fe-4d5b-4226-a2ce-d4c4e10f7cd6, messages: Error: Asset E:\myGitProject\chineseAllChess\assets\Texture\goBangGame\GameLayer0.plist\Img_chuanguan.png is not exists
-    at E:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:16906
-    at i.each (E:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17335)
-    at E:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:181:20
-    at Object.async.forEachOf.async.eachOf (E:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:233:13)
-    at Object.async.forEach.async.each (E:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:209:22)
-    at u.delete (E:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:16842)
-    at _tasks.r.queue (E:\CocosCreator\resources\app.asar\asset-db\index.js:1:2264)
-    at E:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
-    at Immediate.process (E:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
-    at runCallback (timers.js:672:20)
-    at u.o.error (E:\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2250)
-    at E:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17387
-    at E:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:16904
-    at i.each (E:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17335)
-    at E:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:181:20
-    at Object.async.forEachOf.async.eachOf (E:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:233:13)
-    at Object.async.forEach.async.each (E:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:209:22)
-    at u.delete (E:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:16842)
-    at _tasks.r.queue (E:\CocosCreator\resources\app.asar\asset-db\index.js:1:2264)
-2018-12-19T09:51:08.001Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["common/btn_touming.png","table/self_info2.png"]
-2018-12-19T09:52:15.224Z - info: 只有预制节点 "blackChess" 及其子节点会被保存。
-2018-12-19T09:52:17.950Z - info: 只有预制节点 "blackChess" 及其子节点会被保存。
-2018-12-19T09:53:17.073Z - info: 只有预制节点 "blackChess" 及其子节点会被保存。
-2018-12-19T09:53:22.153Z - error: TypeError: Cannot read property 'node' of null
-    at setTimeout (E:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.js:1:906)
-2018-12-19T09:53:39.565Z - info: 只有预制节点 "blackChessNode/blackChess" 及其子节点会被保存。
-2018-12-19T09:58:05.397Z - info: 只有预制节点 "whiteChessNode/whiteChess" 及其子节点会被保存。
+2019-01-02T02:13:52.135Z - normal: Load ~/.CocosCreator/settings.json
+2019-01-02T02:13:52.155Z - normal: checking language setting...
+2019-01-02T02:13:52.155Z - normal: Language: zh
+2019-01-02T02:13:54.139Z - success: protocol editor-framework registered
+2019-01-02T02:13:54.139Z - success: protocol app registered
+2019-01-02T02:13:54.139Z - success: protocol theme registered
+2019-01-02T02:13:54.139Z - success: protocol packages registered
+2019-01-02T02:13:54.139Z - success: protocol unpack registerred
+2019-01-02T02:13:54.139Z - success: protocol disable-commonjs registerred
+2019-01-02T02:13:54.348Z - normal: connected!
+2019-01-02T02:13:54.348Z - normal: Check project E:\myGitProject\chineseAllChess
+2019-01-02T02:13:54.367Z - normal: Initializing project E:\myGitProject\chineseAllChess
+2019-01-02T02:13:54.376Z - normal: Initializing Cocos2d
+2019-01-02T02:13:56.388Z - normal: Initializing Asset Database
+2019-01-02T02:13:56.445Z - success: protocol uuid registerred
+2019-01-02T02:13:56.445Z - success: protocol db registerred
+2019-01-02T02:13:56.445Z - success: protocol thumbnail registerred
+2019-01-02T02:13:56.445Z - normal: Loading editor/builtin packages
+2019-01-02T02:13:56.629Z - success: assets loaded
+2019-01-02T02:13:56.630Z - success: builder loaded
+2019-01-02T02:13:56.630Z - success: cocos-analytics loaded
+2019-01-02T02:13:56.630Z - success: console loaded
+2019-01-02T02:13:56.660Z - success: fb-instant-games loaded
+2019-01-02T02:13:56.660Z - success: hierarchy loaded
+2019-01-02T02:13:56.670Z - success: inspector loaded
+2019-01-02T02:13:56.670Z - success: keystore loaded
+2019-01-02T02:13:56.670Z - success: node-library loaded
+2019-01-02T02:13:56.670Z - success: package-asset loaded
+2019-01-02T02:13:56.670Z - success: preferences loaded
+2019-01-02T02:13:56.680Z - success: project-exporter loaded
+2019-01-02T02:13:56.694Z - success: project-importer loaded
+2019-01-02T02:13:56.695Z - success: project-settings loaded
+2019-01-02T02:13:56.697Z - success: ui-kit loaded
+2019-01-02T02:13:56.699Z - success: scene loaded
+2019-01-02T02:13:56.700Z - success: sprite-editor loaded
+2019-01-02T02:13:56.702Z - success: store loaded
+2019-01-02T02:13:56.706Z - success: timeline loaded
+2019-01-02T02:13:56.706Z - normal: Loading builtin packages
+2019-01-02T02:13:56.725Z - success: asset-db-debugger loaded
+2019-01-02T02:13:56.735Z - success: code-editor loaded
+2019-01-02T02:13:56.735Z - success: color-picker loaded
+2019-01-02T02:13:56.735Z - success: jsb-adapter loaded
+2019-01-02T02:13:56.735Z - success: package-manager loaded
+2019-01-02T02:13:57.005Z - success: qqplay-adapter loaded
+2019-01-02T02:13:57.015Z - success: sdkbox loaded
+2019-01-02T02:13:57.025Z - success: tester loaded
+2019-01-02T02:13:57.025Z - success: ui-grid loaded
+2019-01-02T02:13:57.025Z - success: ui-kit-preview-extra loaded
+2019-01-02T02:13:57.025Z - success: ui-kit-preview loaded
+2019-01-02T02:13:57.035Z - success: ui-tree loaded
+2019-01-02T02:13:57.035Z - success: weapp-adapter loaded
+2019-01-02T02:13:58.299Z - normal: Loading packages
+2019-01-02T02:13:58.299Z - normal: Watching packages
+2019-01-02T02:13:58.519Z - normal: Run Application
+2019-01-02T02:14:01.331Z - success: preview server running at http://localhost:7456

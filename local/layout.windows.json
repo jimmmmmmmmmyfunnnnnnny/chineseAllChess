@@ -92,10 +92,10 @@
       },
       "panels": [
         "hierarchy",
+        "inspector",
         "node-library",
         "console",
         "timeline",
-        "inspector",
         "assets",
         "scene"
       ]

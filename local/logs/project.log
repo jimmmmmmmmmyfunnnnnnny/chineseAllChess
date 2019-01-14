@@ -1,55 +1,55 @@
-2019-01-02T02:13:52.135Z - normal: Load ~/.CocosCreator/settings.json
-2019-01-02T02:13:52.155Z - normal: checking language setting...
-2019-01-02T02:13:52.155Z - normal: Language: zh
-2019-01-02T02:13:54.139Z - success: protocol editor-framework registered
-2019-01-02T02:13:54.139Z - success: protocol app registered
-2019-01-02T02:13:54.139Z - success: protocol theme registered
-2019-01-02T02:13:54.139Z - success: protocol packages registered
-2019-01-02T02:13:54.139Z - success: protocol unpack registerred
-2019-01-02T02:13:54.139Z - success: protocol disable-commonjs registerred
-2019-01-02T02:13:54.348Z - normal: connected!
-2019-01-02T02:13:54.348Z - normal: Check project E:\myGitProject\chineseAllChess
-2019-01-02T02:13:54.367Z - normal: Initializing project E:\myGitProject\chineseAllChess
-2019-01-02T02:13:54.376Z - normal: Initializing Cocos2d
-2019-01-02T02:13:56.388Z - normal: Initializing Asset Database
-2019-01-02T02:13:56.445Z - success: protocol uuid registerred
-2019-01-02T02:13:56.445Z - success: protocol db registerred
-2019-01-02T02:13:56.445Z - success: protocol thumbnail registerred
-2019-01-02T02:13:56.445Z - normal: Loading editor/builtin packages
-2019-01-02T02:13:56.629Z - success: assets loaded
-2019-01-02T02:13:56.630Z - success: builder loaded
-2019-01-02T02:13:56.630Z - success: cocos-analytics loaded
-2019-01-02T02:13:56.630Z - success: console loaded
-2019-01-02T02:13:56.660Z - success: fb-instant-games loaded
-2019-01-02T02:13:56.660Z - success: hierarchy loaded
-2019-01-02T02:13:56.670Z - success: inspector loaded
-2019-01-02T02:13:56.670Z - success: keystore loaded
-2019-01-02T02:13:56.670Z - success: node-library loaded
-2019-01-02T02:13:56.670Z - success: package-asset loaded
-2019-01-02T02:13:56.670Z - success: preferences loaded
-2019-01-02T02:13:56.680Z - success: project-exporter loaded
-2019-01-02T02:13:56.694Z - success: project-importer loaded
-2019-01-02T02:13:56.695Z - success: project-settings loaded
-2019-01-02T02:13:56.697Z - success: ui-kit loaded
-2019-01-02T02:13:56.699Z - success: scene loaded
-2019-01-02T02:13:56.700Z - success: sprite-editor loaded
-2019-01-02T02:13:56.702Z - success: store loaded
-2019-01-02T02:13:56.706Z - success: timeline loaded
-2019-01-02T02:13:56.706Z - normal: Loading builtin packages
-2019-01-02T02:13:56.725Z - success: asset-db-debugger loaded
-2019-01-02T02:13:56.735Z - success: code-editor loaded
-2019-01-02T02:13:56.735Z - success: color-picker loaded
-2019-01-02T02:13:56.735Z - success: jsb-adapter loaded
-2019-01-02T02:13:56.735Z - success: package-manager loaded
-2019-01-02T02:13:57.005Z - success: qqplay-adapter loaded
-2019-01-02T02:13:57.015Z - success: sdkbox loaded
-2019-01-02T02:13:57.025Z - success: tester loaded
-2019-01-02T02:13:57.025Z - success: ui-grid loaded
-2019-01-02T02:13:57.025Z - success: ui-kit-preview-extra loaded
-2019-01-02T02:13:57.025Z - success: ui-kit-preview loaded
-2019-01-02T02:13:57.035Z - success: ui-tree loaded
-2019-01-02T02:13:57.035Z - success: weapp-adapter loaded
-2019-01-02T02:13:58.299Z - normal: Loading packages
-2019-01-02T02:13:58.299Z - normal: Watching packages
-2019-01-02T02:13:58.519Z - normal: Run Application
-2019-01-02T02:14:01.331Z - success: preview server running at http://localhost:7456
+2019-01-14T03:47:53.515Z - normal: Load ~/.CocosCreator/settings.json
+2019-01-14T03:47:53.518Z - normal: checking language setting...
+2019-01-14T03:47:53.519Z - normal: Language: zh
+2019-01-14T03:47:55.340Z - success: protocol editor-framework registered
+2019-01-14T03:47:55.340Z - success: protocol app registered
+2019-01-14T03:47:55.340Z - success: protocol theme registered
+2019-01-14T03:47:55.340Z - success: protocol packages registered
+2019-01-14T03:47:55.340Z - success: protocol unpack registerred
+2019-01-14T03:47:55.340Z - success: protocol disable-commonjs registerred
+2019-01-14T03:47:55.574Z - normal: connected!
+2019-01-14T03:47:55.577Z - normal: Check project E:\myGitProject\chineseAllChess
+2019-01-14T03:47:55.607Z - normal: Initializing project E:\myGitProject\chineseAllChess
+2019-01-14T03:47:55.607Z - normal: Initializing Cocos2d
+2019-01-14T03:47:57.669Z - normal: Initializing Asset Database
+2019-01-14T03:47:57.727Z - success: protocol uuid registerred
+2019-01-14T03:47:57.727Z - success: protocol db registerred
+2019-01-14T03:47:57.727Z - success: protocol thumbnail registerred
+2019-01-14T03:47:57.727Z - normal: Loading editor/builtin packages
+2019-01-14T03:47:57.930Z - success: assets loaded
+2019-01-14T03:47:57.932Z - success: builder loaded
+2019-01-14T03:47:57.934Z - success: cocos-analytics loaded
+2019-01-14T03:47:57.936Z - success: console loaded
+2019-01-14T03:47:57.963Z - success: fb-instant-games loaded
+2019-01-14T03:47:57.963Z - success: hierarchy loaded
+2019-01-14T03:47:57.963Z - success: inspector loaded
+2019-01-14T03:47:57.973Z - success: keystore loaded
+2019-01-14T03:47:57.973Z - success: node-library loaded
+2019-01-14T03:47:57.973Z - success: package-asset loaded
+2019-01-14T03:47:57.973Z - success: preferences loaded
+2019-01-14T03:47:57.973Z - success: project-exporter loaded
+2019-01-14T03:47:57.993Z - success: project-importer loaded
+2019-01-14T03:47:57.995Z - success: project-settings loaded
+2019-01-14T03:47:57.997Z - success: ui-kit loaded
+2019-01-14T03:47:58.000Z - success: scene loaded
+2019-01-14T03:47:58.001Z - success: sprite-editor loaded
+2019-01-14T03:47:58.003Z - success: store loaded
+2019-01-14T03:47:58.010Z - success: timeline loaded
+2019-01-14T03:47:58.010Z - normal: Loading builtin packages
+2019-01-14T03:47:58.030Z - success: asset-db-debugger loaded
+2019-01-14T03:47:58.040Z - success: code-editor loaded
+2019-01-14T03:47:58.040Z - success: color-picker loaded
+2019-01-14T03:47:58.050Z - success: jsb-adapter loaded
+2019-01-14T03:47:58.060Z - success: package-manager loaded
+2019-01-14T03:47:58.460Z - success: qqplay-adapter loaded
+2019-01-14T03:47:58.470Z - success: sdkbox loaded
+2019-01-14T03:47:58.480Z - success: tester loaded
+2019-01-14T03:47:58.490Z - success: ui-grid loaded
+2019-01-14T03:47:58.490Z - success: ui-kit-preview-extra loaded
+2019-01-14T03:47:58.490Z - success: ui-kit-preview loaded
+2019-01-14T03:47:58.500Z - success: ui-tree loaded
+2019-01-14T03:47:58.500Z - success: weapp-adapter loaded
+2019-01-14T03:47:59.730Z - normal: Loading packages
+2019-01-14T03:47:59.730Z - normal: Watching packages
+2019-01-14T03:47:59.964Z - normal: Run Application
+2019-01-14T03:48:02.978Z - success: preview server running at http://localhost:7456

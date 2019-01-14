@@ -43,11 +43,12 @@ cc.Class({
     setChessMap: function setChessMap(pos) {
         for (var i = 0; i < this.chessMap.length; i++) {
             var pos_1 = cc.v2(this.chessMap[i].x, this.chessMap[i].y);
-            if (pos_1.fuzzyEquals(pos, 35.4)) {
+            if (pos_1.fuzzyEquals(pos, 15)) {
                 var PrefabType = this.blcakPrefab;
                 var chess = cc.instantiate(PrefabType);
                 this.gobangBg.node.addChild(chess);
                 chess.position = pos_1;
+                console.log("pos_1" + pos_1);
             }
         }
     },
